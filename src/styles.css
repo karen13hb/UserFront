@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Signika+Negative:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+  }
+  html, body{
+    width: 100%;
+    height: auto;
+  } 
+p{
+  margin-bottom: 0;
+}
